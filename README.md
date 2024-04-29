@@ -1,1 +1,1 @@
-# Nonlinear-mpc-algorithm-implementation
+# NMPC-algorithm-implementation
